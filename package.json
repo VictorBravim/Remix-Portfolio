@@ -14,9 +14,15 @@
     "@remix-run/node": "^2.10.3",
     "@remix-run/react": "^2.10.3",
     "@remix-run/serve": "^2.10.3",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.17",
     "isbot": "^4.1.0",
+    "mini-svg-data-uri": "^1.4.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.1",
+    "tailwind-merge": "^2.4.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.10.3",
